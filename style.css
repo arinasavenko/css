@@ -1,0 +1,54 @@
+body{ color: honeydew;
+    font-size: 20px;
+    font-weight: normal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background:url(фон.jpg) 
+    ;
+}
+h2{color: rgb(0, 39, 47);
+    text-decoration-line:underline ;
+    text-align: center;
+}
+
+
+div{
+    display: block;
+}
+.me{ background: #223131c0;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left:250px ;
+    margin-right: 250px;
+    border-radius: 30px;
+}
+.avatar {
+width: 250px;
+border-radius: 50px;
+}
+
+.rce{
+    background: #2255557c;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    padding-left: 20px;
+}
+.naviki{background: #2255557c;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    padding-left: 20px;
+}
+.hobbi{background: #2255557c;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    padding-left: 20px;
+}
+.kontakt{background: #2255557c;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    padding-left: 20px;
+}
